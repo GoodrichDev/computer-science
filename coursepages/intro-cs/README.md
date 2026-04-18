@@ -1,3 +1,35 @@
+# 📚 Lecture Checklist
+
+| Status | Lecture | Topic | Date Completed |
+|--------|--------|-------|----------------|
+| ✅ | 1 | Introduction | 2026-04-18 |
+| ⬜ | 2 | Strings, Input/Output, Branching | |
+| ⬜ | 3 | Iteration | |
+| ⬜ | 4 | Loops over Strings, Guess-and-Check, Binary | |
+| ⬜ | 5 | Floats and Approximation Methods | |
+| ⬜ | 6 | Bisection Search | |
+| ⬜ | 7 | Decomposition, Abstraction, Functions | |
+| ⬜ | 8 | Functions as Objects | |
+| ⬜ | 9 | Lambda Functions, Tuples, and Lists | |
+| ⬜ | 10 | Lists, Mutability | |
+| ⬜ | 11 | Aliasing, Cloning | |
+| ⬜ | 12 | List Comprehension, Functions as Objects, Testing, Debugging | |
+| ⬜ | 13 | Exceptions, Assertions | |
+| ⬜ | 14 | Dictionaries | |
+| ⬜ | 15 | Recursion | |
+| ⬜ | 16 | Recursion on Non-Numerics | |
+| ⬜ | 17 | Python Classes | |
+| ⬜ | 18 | More Python Class Methods | |
+| ⬜ | 19 | Inheritance | |
+| ⬜ | 20 | Fitness Tracker Object-Oriented Programming Example | |
+| ⬜ | 21 | Timing Programs, Counting Operations | |
+| ⬜ | 22 | Big Oh and Theta | |
+| ⬜ | 23 | Complexity Classes Examples | |
+| ⬜ | 24 | Sorting Algorithms | |
+| ⬜ | 25 | Plotting | |
+| ⬜ | 26 | List Access, Hashing, Simulations, and Wrap-Up | |
+
+
 # Introduction to Computer Science and Programming using Python
 
 This course will introduce you to the world of computer science and programming, giving you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
