@@ -2,32 +2,32 @@
 
 | Status | Lecture | Topic | Date Completed |
 |--------|--------|-------|----------------|
-| ✅ | 1 | Introduction | 2026-04-18 |
-| ⬜ | 2 | Strings, Input/Output, Branching | |
-| ⬜ | 3 | Iteration | |
-| ⬜ | 4 | Loops over Strings, Guess-and-Check, Binary | |
-| ⬜ | 5 | Floats and Approximation Methods | |
-| ⬜ | 6 | Bisection Search | |
-| ⬜ | 7 | Decomposition, Abstraction, Functions | |
-| ⬜ | 8 | Functions as Objects | |
-| ⬜ | 9 | Lambda Functions, Tuples, and Lists | |
-| ⬜ | 10 | Lists, Mutability | |
-| ⬜ | 11 | Aliasing, Cloning | |
-| ⬜ | 12 | List Comprehension, Functions as Objects, Testing, Debugging | |
-| ⬜ | 13 | Exceptions, Assertions | |
-| ⬜ | 14 | Dictionaries | |
-| ⬜ | 15 | Recursion | |
-| ⬜ | 16 | Recursion on Non-Numerics | |
-| ⬜ | 17 | Python Classes | |
-| ⬜ | 18 | More Python Class Methods | |
-| ⬜ | 19 | Inheritance | |
-| ⬜ | 20 | Fitness Tracker Object-Oriented Programming Example | |
-| ⬜ | 21 | Timing Programs, Counting Operations | |
-| ⬜ | 22 | Big Oh and Theta | |
-| ⬜ | 23 | Complexity Classes Examples | |
-| ⬜ | 24 | Sorting Algorithms | |
-| ⬜ | 25 | Plotting | |
-| ⬜ | 26 | List Access, Hashing, Simulations, and Wrap-Up | |
+| ✅ | 1 | [Introduction](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-1-introduction/) | 2026-04-18 |
+| ⬜ | 2 | [Strings, Input/Output, Branching](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-2-strings-inputoutput-branching/) | |
+| ⬜ | 3 | [Iteration](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-3-iteration/) | |
+| ⬜ | 4 | [Loops over Strings, Guess-and-Check, Binary](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-4-loops-over-strings-guess-and-check-binary/) | |
+| ⬜ | 5 | [Floats and Approximation Methods](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-5-floats-and-approximation-methods/) | |
+| ⬜ | 6 | [Bisection Search](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-6-bisection-search/) | |
+| ⬜ | 7 | [Decomposition, Abstraction, Functions](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-7-decomposition-abstraction-functions/) | |
+| ⬜ | 8 | [Functions as Objects](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-8-functions-as-objects/) | |
+| ⬜ | 9 | [Lambda Functions, Tuples, and Lists](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-9-lambda-functions-tuples-and-lists/) | |
+| ⬜ | 10 | [Lists, Mutability](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-10-lists-mutability/) | |
+| ⬜ | 11 | [Aliasing, Cloning](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-11-aliasing-cloning/) | |
+| ⬜ | 12 | [List Comprehension, Functions as Objects, Testing, Debugging](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-12-list-comprehension-functions-as-objects-testing-debugging/) | |
+| ⬜ | 13 | [Exceptions, Assertions](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-13-exceptions-assertions/) | |
+| ⬜ | 14 | [Dictionaries](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-14-dictionaries/) | |
+| ⬜ | 15 | [Recursion](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-15-recursion/) | |
+| ⬜ | 16 | [Recursion on Non-Numerics](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-16-recursion-on-non-numerics/) | |
+| ⬜ | 17 | [Python Classes](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-17-python-classes/) | |
+| ⬜ | 18 | [More Python Class Methods](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-18-more-python-class-methods/) | |
+| ⬜ | 19 | [Inheritance](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-19-inheritance/) | |
+| ⬜ | 20 | [Fitness Tracker Object-Oriented Programming Example](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-20-fitness-tracker-object-oriented-programming-example/) | |
+| ⬜ | 21 | [Timing Programs, Counting Operations](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-21-timing-programs-counting-operations/) | |
+| ⬜ | 22 | [Big Oh and Theta](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-22-big-oh-and-theta/) | |
+| ⬜ | 23 | [Complexity Classes Examples](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-23-complexity-classes-examples/) | |
+| ⬜ | 24 | [Sorting Algorithms](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-24-sorting-algorithms/) | |
+| ⬜ | 25 | [Plotting](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-25-plotting/) | |
+| ⬜ | 26 | [List Access, Hashing, Simulations, and Wrap-Up](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-26-list-access-hashing-simulations-and-wrap-up/) | |
 
 
 # Introduction to Computer Science and Programming using Python
